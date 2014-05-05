@@ -24,7 +24,7 @@ listsize = len(mylist)
 pynotify.init("init")
 while True:
 	randnumber = random.randrange(0, listsize)
-#	random.shuffle(mylist)
+	random.shuffle(mylist)
 	randline = mylist[randnumber]
 	print randnumber, randline
 	randdata = randline.split(":")
