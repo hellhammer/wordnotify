@@ -24,6 +24,7 @@ listsize = len(mylist)
 pynotify.init("init")
 while True:
 	randnumber = random.randrange(0, listsize)
+#	random.shuffle(mylist)
 	randline = mylist[randnumber]
 	print randnumber, randline
 	randdata = randline.split(":")
@@ -31,6 +32,7 @@ while True:
 	randdesc = randdata[1]
 	if (len(randdata) > 2):
 		randdesc = randdesc + "\n" + randdata[2]
+	randdesc = randdesc[:-1]
 	randdesc = "<b><i>" + randdesc + "</i></b>"
 	word = pynotify.Notification(randword, randdesc, iconpath)
 #	word.set_timeout(12)
