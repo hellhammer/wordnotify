@@ -23,10 +23,10 @@
 ぬ ― nu : nu [nu͍]
 ね ― ne : ne [ne]
 の ― no : no [no]
-は ― ha : ha [ha] : ([w͍a] as particle)
+は ― ha : ha [ha]
 ひ ― hi : hi [çi]
 ふ ― fu : fu [ɸu͍]
-へ ― he : he [he] : ([e] as particle)
+へ ― he : he [he]
 ほ ― ho : ho [ho]
 ま ― ma : ma [ma]
 み ― mi : mi [mi]
@@ -45,7 +45,4 @@
 ゐ ― i/wi : i/wi [(w͍)i]
 ゑ ― e/we : e/we [(w͍)e]
 を ― o/wo : o/wo [(w͍)o] (particle)
-ん ― n : n [n] [m] [ŋ] before stop consonants; : [ɴ] [ũ͍] [ĩ] elsewhere
-っ : (indicates a geminate consonant)
-ゝ : (reduplicates and unvoices syllable)
-ゞ : (reduplicates and voices syllable)
+ん ― n : n [n] [m] [ŋ] before stop consonants
